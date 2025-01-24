@@ -10,7 +10,7 @@ App para o Villarejo Bistrô
 
 <p align="center">
   <a>
-    <img src="./img/villareja-bistro.gif">
+    <img src="./img/villarejo-bistro.gif">
   </a>
 </p>
 
